@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13809e5c-9ddb-4bee-9057-0177ac13cdfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature/Celsius.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature/Fahrenheit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature/Temperature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperature/TemperatureConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/CelsiusTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/FahrenheitTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="13809e5c-9ddb-4bee-9057-0177ac13cdfb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="578">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -254,7 +246,7 @@
       <workItem from="1556683884065" duration="2091000" />
       <workItem from="1556733780786" duration="862000" />
       <workItem from="1557287561000" duration="835000" />
-      <workItem from="1557607913048" duration="159000" />
+      <workItem from="1557607913048" duration="310000" />
     </task>
     <servers />
   </component>
@@ -279,7 +271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3947000" />
+    <option name="totallyTimeSpent" value="4098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
@@ -364,7 +356,7 @@
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
